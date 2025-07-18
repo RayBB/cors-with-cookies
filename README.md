@@ -2,7 +2,7 @@
 
 A simple Express-based proxy server that handles CORS requests while preserving cookies. Perfect for situations where you need to make cross-origin requests that require cookie preservation.
 
-Update July 2025: added a Cloudflare Worker version of this proxy server (npx wrangler dev/deploy to use it). Also, I realized this may be a silly approach when what I really needed was a reverse proxy.
+Update July 2025: added a Cloudflare Worker version of this proxy server (npx wrangler dev/deploy to use it). Also, I realized this may be a silly approach when what I really needed was a reverse proxy. PS: This is deployed to LOT CF.
 
 ## Features
 
