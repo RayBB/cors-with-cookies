@@ -1,0 +1,8 @@
+{
+	"name": "cors-with-cookies",
+	"main": "cf_worker.js",
+	"compatibility_date": "2025-07-18",
+	"observability": {
+		"enabled": true
+	}
+}
